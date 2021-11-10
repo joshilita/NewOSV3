@@ -1,1 +1,3 @@
 V:0.86 - "Changelog starts here" Nov 9 2021
+V:0.87 - Bug Fixes
+V:0.88 - Added commands (help, exit)
