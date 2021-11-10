@@ -1,3 +1,4 @@
 (V:0.86 - "Changelog starts here" Nov 9 2021)
 (V:0.87 - Bug Fixes)
 (V:0.88 - Added commands (help, exit, changelog))
+(V:0.89 - Bug Fixes, ${GREENFG}GUI (dialog) coming soon! ${RESET})
